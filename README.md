@@ -42,3 +42,7 @@ cd PhoneBook
 
 **[How to work with... ](https://drive.google.com/file/d/1Xs_sW4NxWGHz5Nu11jbHwpfe4wsLeFTn/view?usp=sharing ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
 Here you can find instruction and examples of work.
+
+<p align="left">
+  <img src="https://i.imgur.com/vJqNcgZ.png" width="600">
+</p>
